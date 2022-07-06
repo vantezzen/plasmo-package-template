@@ -8,6 +8,7 @@
       "~*": ["./src/*"]
     },
     "baseUrl": ".",
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "incremental": false
   }
 }
