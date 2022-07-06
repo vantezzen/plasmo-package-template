@@ -64,7 +64,6 @@ Runs Jest without watch mode (e.g. for CIs)
 ## TODO
 
 - [ ] Add Typescript import alias to allow `import ... from "@"` instead of `import ... from "../src"` in the example extension
-- [ ] Verify build + publish works
 
 ## Attribution
 
