@@ -6,6 +6,7 @@ This template can be used to easily develop third-party packages for the [plasmo
 
 ## Features
 
+- TSX/JSX support
 - Typescript support
 - Example extension to test your package in the browser
 - Jest integration
