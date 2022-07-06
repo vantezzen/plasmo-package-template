@@ -61,6 +61,11 @@ Runs the Typescript build
 
 Runs Jest without watch mode (e.g. for CIs)
 
+## TODO
+
+- [ ] Add Typescript import alias to allow `import ... from "@"` instead of `import ... from "../src"` in the example extension
+- [ ] Verify build + publish works
+
 ## Attribution
 
 This template is based on plasmo's [storage library](https://github.com/PlasmoHQ/storage).
