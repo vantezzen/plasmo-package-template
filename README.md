@@ -13,7 +13,10 @@ This template can be used to easily develop third-party packages for the [plasmo
 
 ## Usage
 
-1. Click the "Use template" button on this repository to create a template fork
+1. Click the "Use this template" button on this repository to create a template fork
+
+   ![Use this template demo](./use-this-template.png)
+
 2. Clone your fork onto your local machine
 3. Customize the name, description, author and version in `package.json` and optionally `example/package.json`
 4. Install dependencies using `pnpm install`
